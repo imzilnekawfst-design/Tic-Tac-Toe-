@@ -8,7 +8,11 @@ Un jeu classique **Tic-Tac-Toe** développé en Java.
 
 ## Technologies
 - Java (VS CODE )  
-- Java Swing pour l’interface graphique  
+- Java Swing pour l’interface graphique
+#![Tic-Tac-Toe Demo](demo.MP4)
+## Téléchargez et jouez
+[Télécharger le JAR](TicTacToe.jar)
+
 
 ## Installation
 - Clone le projet :  
