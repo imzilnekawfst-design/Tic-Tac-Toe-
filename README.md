@@ -13,6 +13,6 @@ Un jeu classique **Tic-Tac-Toe** développé en Java.
 ## Installation
 - Clone le projet :  
 ```bash
-git clone https://github.com/kawtar-imzilne/tic-tac-toe-java.git
+git clone https://github.com/imzilnekawfst-design/Tic-Tac-Toe-.git
 javac src/*.java
 java src.App
