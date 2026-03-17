@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game
+# tic-tac-toe-java
 
 ## Description
 Un jeu classique **Tic-Tac-Toe** développé en Java.  
