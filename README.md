@@ -1,22 +1,27 @@
-# tic-tac-toe-java
+# Tic-Tac-Toe Java
 
-## Description
-Un jeu classique **Tic-Tac-Toe** développé en Java.  
-- Interface graphique avec **Java Swing**  
-- Deux joueurs peuvent jouer sur le même ordinateur  
-- Affiche le ( winner et Loser )
+Un simple jeu de **Tic-Tac-Toe** développé en Java.  
+Le projet inclut le code source, un fichier JAR exécutable et un GIF de démonstration.
 
-## Technologies
-- Java (VS CODE )  
-- Java Swing pour l’interface graphique
-#![Tic-Tac-Toe Demo](demo.MP4)
-## Téléchargez et jouez
+---
+
+## Aperçu du jeu
+
+![Tic-Tac-Toe Demo](demo.MP4)
+
+---
+
+## Télécharger et jouer
+
 [Télécharger le JAR](TicTacToe.jar)
 
+---
 
-## Installation
-- Clone le projet :  
+## Instructions
+
+1. Téléchargez le projet ou le fichier JAR.  
+2. Ouvrez un terminal dans le dossier contenant `TicTacToe.jar`.  
+3. Lancez le jeu avec la commande :
+
 ```bash
-git clone https://github.com/imzilnekawfst-design/Tic-Tac-Toe-.git
-javac src/*.java
-java src.App
+java -jar TicTacToe.jar
